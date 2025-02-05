@@ -21,7 +21,7 @@ A real-time **data pipeline** for the Liverpool Museum of Natural History (LMNH)
 
 ---
 
-### 2. [🍔 Tasty Truck Treats (T3) Data Pipeline](https://github.com/qrafiq1/project2)
+### 2. [🍔 Tasty Truck Treats (T3) Data Pipeline](https://github.com/qrafiq1/T3-Data-Pipeline)
 **Tech Stack:** Python, AWS, PostgreSQL (Redshift), Streamlit, Terraform, Docker 
 
 **Description:**  
@@ -32,11 +32,11 @@ An automated data pipeline and analytics platform for Tasty Truck Treats (T3) to
 - **Streamlit dashboard** for real-time insights.  
 - **Automated reports** sent to leadership via email.  
 
-[View repo →](https://github.com/your-repo-link)  
+[View repo →](https://github.com/qrafiq1/T3-Data-Pipeline)  
 
 ---
 
-## 3. [🌍 Earthquake Monitoring System](https://github.com/yourusername/project3)  
+## 3. [🌍 Earthquake Monitoring System](https://github.com/qrafiq1/Earthquake-Monitor-System)  
 **Tech Stack:** Python, AWS, PostgreSQL (RDS), Streamlit, Terraform, Scikit-learn, Docker
 
 **Description:**  
