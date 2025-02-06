@@ -6,7 +6,7 @@ I'm a passionate Junior Data & Software Engineer with a love for building cool p
 
 Here are some of the projects I've worked on:
 
-### 1. [🏛️ Liverpool Museum of Natural History (LMNH) Data Pipeline](https://github.com/qrafiq1/project1)
+### 1. [🏛️ Liverpool Museum of Natural History (LMNH) Data Pipeline](https://github.com/qrafiq1/LMNH-Data-Pipeline)
 **Tech Stack:** Python, AWS EC2, PostgreSQL (AWS RDS), Kafka, Docker, Terraform, Tableau
 
 **Description:**  
@@ -17,7 +17,7 @@ A real-time **data pipeline** for the Liverpool Museum of Natural History (LMNH)
 - **Tableau dashboards** for real-time insights.  
 - **Optimised staff allocation** and exhibit tracking.  
 
-[View repo →](https://github.com/yourusername/project1)  
+[View repo →](https://github.com/qrafiq1/LMNH-Data-Pipeline)  
 
 ---
 
