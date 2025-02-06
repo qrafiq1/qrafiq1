@@ -1,6 +1,6 @@
 # Hi there, I'm Qasim Rafiq! 👋
 
-I'm a passionate Junior Data & Software Engineer with a love for building cool projects and solving real-world problems. I enjoy working with [Your Interests, e.g., web development, machine learning, etc.] and constantly learning new technologies to improve my skills.
+I'm a passionate Junior Data & Software Engineer with a love for building cool projects and solving real-world problems. I enjoy working with **data pipelines, cloud computing, and machine learning**, and constantly learning new technologies to improve my skills.
 
 ## 🚀 Projects
 
@@ -51,6 +51,14 @@ A **real-time earthquake monitoring system** that tracks seismic activity and no
 [View repo →](https://github.com/qrafiq1/Earthquake-Monitor-System)  
 
 ---
+
+## 🧩 Core Skills
+
+| **Category**             | **Skills & Tools**                                                                                                    |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Languages**            | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge) |
+| **Frameworks & Tools**   | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge) ![spAcy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge) ![RapidFuzz](https://img.shields.io/badge/-RapidFuzz-FF6F61?logo=fastapi&logoColor=white&style=for-the-badge) |
+| **Development Practices**| ![TDD](https://img.shields.io/badge/-TDD-61DAFB?style=for-the-badge) ![API Design](https://img.shields.io/badge/-API%20Design-007ACC?style=for-the-badge) ![Debugging](https://img.shields.io/badge/-Debugging-2C8EBB?style=for-the-badge) ![NLP](https://img.shields.io/badge/-NLP-0055CC?style=for-the-badge&logo=ai) ![Real-time Data Processing](https://img.shields.io/badge/-Real--time%20Data%20Processing-4CAF50?style=for-the-badge&logo=databricks&logoColor=white) |
 
 ## 🌱 Currently Learning  
 
